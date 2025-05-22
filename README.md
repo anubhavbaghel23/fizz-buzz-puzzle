@@ -7,4 +7,4 @@ If a number is divisible by 3 only then it gets replaced with "fizz", if it is d
 And if it is divisible by both then it gets replacd by "fizzbuzz".
 
 
-#This project with use HTML, CSS and JS#
+#This project with use HTML and JS#
